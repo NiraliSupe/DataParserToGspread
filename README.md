@@ -1,6 +1,6 @@
-Goal        :It is a python script which will parse the json data and output a google spreadsheet.                     
+**Goal        :**It is a python script which will parse the json data and output a google spreadsheet.                     
 
-Requirements:    
+**Requirements:**                
 Python 3.4  
 gspread                   
 oauth2client                            
